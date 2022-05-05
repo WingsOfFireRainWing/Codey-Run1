@@ -14,12 +14,12 @@ Play older versions!
 
 
 Whats new?
-*wall running fixes
-*world 2 out of bounds glitch fixed
-*world 4 out of bounds glitch fixed
-*lava hitbox edited
-*audio change
-*removed "new" from menu
+* wall running fixes
+* world 2 out of bounds glitch fixed
+* world 4 out of bounds glitch fixed
+* lava hitbox edited
+* audio change
+* removed "new" from menu
 * "play" plays the game
 * new end screen
 * volume changes
