@@ -3,7 +3,7 @@ play version 1.0!
 
 https://wingsoffirerainwing.github.io/Codey-Run1/
 
-Codey Run is a platformer where you play as the code ninjas mascot, Codey. Codey must jump over spikes, move around spikey walls, and even dodge moving walls. Codey Run features five unique levels, aduio, a main menu screen, and a winning screen. Play as Codey and advance your way past many varying obstacles to collect shurikens!
+Codey Run is a platformer where you play as the code ninjas mascot, Codey. Codey must jump over spikes, move around spikey walls, and even dodge moving walls. Codey Run features five unique levels, audio, a main menu screen, and a winning screen. Play as Codey and advance your way past many varying obstacles to collect shurikens!
 
 Play older versions!
 
