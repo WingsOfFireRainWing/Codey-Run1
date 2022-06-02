@@ -1,5 +1,5 @@
 # Codey-Run1
-play version 1.0!
+play version 1.2!
 
 https://wingsoffirerainwing.github.io/Codey-Run1/
 
@@ -11,7 +11,13 @@ Play older versions!
 
 * older version of 1.0 https://wingsoffirerainwing.github.io/Codey-Run-Release/
 
-
+Update:
+* new menu screen
+* new info screen
+* new level select
+* new look for levels 2-5
+* play button pushes player to level select screen
+* checkpoints on levels 3 and 5
 
 Whats new?
 * wall running fixes
